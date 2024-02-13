@@ -2,3 +2,7 @@ geojson
 folium
 shapely
 requests
+scikit-learn
+numpy
+matplotlib
+seaborn
